@@ -5,5 +5,5 @@ int main()
 {
   cout << "HELLO PROJECT";
 }
-return;
+return 0;
 
